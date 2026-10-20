@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146478848797",
+    "project_id": "sign-up-page-mobile",
+    "storage_bucket": "sign-up-page-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146478848797:android:9d65545f63e96183a15ff4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBQcfx7u1AWHI_MyCaZWlspmR9meOKag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
